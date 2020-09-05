@@ -32,3 +32,15 @@ Membuat portfolio page
 
 result: https://codepen.io/imuhamadfadilah/pen/KKzXYqm
 ![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/5.png "day5 challenge")
+
+## Day6
+Membuat navigasi toggle dengan sedikit javascript.
+\
+result: https://codepen.io/imuhamadfadilah/pen/xxVPpQQ
+![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/6.png "day6 challenge")
+
+## Day7
+Membuat replicate design. tutorial dari : https://dev.to/nghiemthu/steps-to-replicate-a-design-with-only-html-and-css-93e
+\
+result: https://codepen.io/imuhamadfadilah/pen/XWdVJKg
+![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/7.png "day7 challenge")
