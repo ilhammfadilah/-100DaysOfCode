@@ -44,3 +44,9 @@ Membuat replicate design. tutorial dari : https://dev.to/nghiemthu/steps-to-repl
 \
 result: https://codepen.io/imuhamadfadilah/pen/XWdVJKg
 ![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/7.png "day7 challenge")
+
+## Day8
+Saya membuat sebuah page 404 Not Found, dan saya juga belajar sedikit mengenai firebase
+\
+result: https://page-322ff.web.app/
+![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/8.png "day8 challenge")
