@@ -50,3 +50,9 @@ Saya membuat sebuah page 404 Not Found, dan saya juga belajar sedikit mengenai f
 \
 result: https://page-322ff.web.app/
 ![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/8.png "day8 challenge")
+
+## Day9
+Saya membuat sebuah Team Page, ini adalah challenge dari devcchallenges.io
+\
+result: https://sayailham-team-page.netlify.app/
+![alt text](https://github.com/ilhammfadilah/100DaysOfCode/blob/master/image/9.png "day9 challenge")
